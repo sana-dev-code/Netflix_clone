@@ -29,4 +29,12 @@ This is a **Netflix landing page clone** built using **HTML and CSS only**. It r
 ---
 
 ## 📁 Project Structure
+Netflix_clone/
+             ├── index.html
+             ├── style.css
+             ├── Screenshot 2025-07-10 111007.png
+             └── README.md
+
+
+
 
