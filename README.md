@@ -6,9 +6,7 @@ This is a **Netflix landing page clone** built using **HTML and CSS only**. It r
 
 ## 📸 Screenshot
 
-![Netflix Clone Preview](screenshot.png)
-
-> Make sure `screenshot.png` is saved in the main project folder (same location as `index.html`).
+![Netflix Clone Preview](https://github.com/sana-dev-code/Netflix_clone/raw/85031037723051b64b89dd05646ff92dba921e75/Screenshot%202025-07-10%20111007.png)
 
 ---
 
